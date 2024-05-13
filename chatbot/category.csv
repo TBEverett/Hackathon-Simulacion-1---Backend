@@ -1,23 +1,167 @@
-text,label
-Hola,saludo
-Cómo estás,saludo
-como estas,saludo
-holaaaa,saludo
-holap,saludo
-buenas,saludo
-buenas tardes,saludo
-buenas noches,saludo
-buenos dias,saludo
-chao,despedida
-chau,despedida
-hasta pronto,despedida
-Adios,despedida
-Hasta la proxima,despedida
-No necesito más ayuda,despedida
-Creo que eso no más,despedida
-Eso es todo,despedida
-Cómo se llama su equipo,equipo
-Su equipo cómo se llama,equipo
-Ustedes quienes son,equipo
-quien hizo este software,equipo
-quien hizo la solucion?,equipo
+text;label
+Hola;saludo
+Cómo estás;saludo
+como estas;saludo
+holaaaa;saludo
+holap;saludo
+buenas;saludo
+buenas tardes;saludo
+buenas noches;saludo
+buenos dias;saludo
+chao;despedida
+chau;despedida
+hasta pronto;despedida
+Adios;despedida
+Hasta la proxima;despedida
+No necesito más ayuda;despedida
+Creo que eso no más;despedida
+Eso es todo;despedida
+Cómo se llama su equipo;equipo
+Su equipo cómo se llama;equipo
+Ustedes quienes son;equipo
+quien hizo este software;equipo
+¡Hola!;saludo
+Buenos días;saludo
+¿Cómo estás?;saludo
+Hola, ¿qué tal?;saludo
+¡Buenas tardes!;saludo
+¿Qué hay de nuevo?;saludo
+Saludos cordiales;saludo
+¡Hola! ¿Cómo te va?;saludo
+¿Qué pasa?;saludo
+Hola, ¿cómo estás hoy?;saludo
+¡Buenas noches!;saludo
+¿Cómo te encuentras?;saludo
+¿Qué tal estás?;saludo
+¡Hola! ¿Qué hay de nuevo?;saludo
+Hola, ¿cómo te sientes hoy?;saludo
+¿Cómo va todo?;saludo
+¿Cómo amaneciste?;saludo
+¡Hola! ¿Qué cuentas?;saludo
+Hola, ¿qué haces?;saludo
+¿Cómo va eso?;saludo
+¿Qué pasa contigo?;saludo
+¡Hola! ¿Cómo te trata el día?;saludo
+Hola, ¿qué novedades tienes?;saludo
+¿Qué onda?;saludo
+¿Cómo estuvo tu día?;saludo
+¡Hola! ¿Qué tal tu jornada?;saludo
+¿Cómo te ha ido?;saludo
+¿Qué tal la vida?;saludo
+Hola, ¿qué tal todo?;saludo
+¿Cómo te sientes hoy?;saludo
+¡Hola! ¿Qué hay de ti?;saludo
+¿Qué cuentas?;saludo
+¿Cómo va eso?;saludo
+¿Qué tal estás?;saludo
+¡Hola! ¿Cómo amaneciste?;saludo
+¿Qué tal tu día?;saludo
+¿Cómo estás hoy?;saludo
+¡Hola! ¿Cómo va todo?;saludo
+¿Qué pasa?;saludo
+¿Qué hay de nuevo?;saludo
+¡Hola! ¿Cómo te trata la vida?;saludo
+¿Cómo te va?;saludo
+¿Qué cuentas de nuevo?;saludo
+¡Hola! ¿Qué novedades tienes?;saludo
+¿Qué hay?;saludo
+¿Cómo estás en este momento?;saludo
+¡Hola! ¿Qué hay de ti?;saludo
+¿Cómo amaneciste?;saludo
+¿Qué tal tu día?;saludo
+¡Hasta luego!;despedida
+Nos vemos pronto;despedida
+Adiós;despedida
+Hasta la próxima;despedida
+Que tengas un buen día;despedida
+Hasta mañana;despedida
+Cuidate;despedida
+Hasta luego, nos vemos;despedida
+Que tengas un buen día;despedida
+Nos vemos más tarde;despedida
+Adiós, que te vaya bien;despedida
+Que descanses;despedida
+Hasta la vista;despedida
+Nos vemos luego;despedida
+Adiós, cuídate mucho;despedida
+Hasta pronto;despedida
+Que tengas éxito;despedida
+Nos vemos mañana;despedida
+Adiós, que tengas un buen día;despedida
+Que te vaya bien;despedida
+Hasta la próxima vez;despedida
+Nos vemos;despedida
+Adiós, que tengas un buen día;despedida
+Que tengas suerte;despedida
+Hasta la próxima reunión;despedida
+Nos vemos en otro momento;despedida
+Adiós, que estés bien;despedida
+Que tengas un buen día, hasta luego;despedida
+Nos vemos más tarde, cuídate;despedida
+Adiós, que tengas éxito;despedida
+Que te vaya bien en todo;despedida
+Hasta la próxima vez, adiós;despedida
+Nos vemos mañana, que descanses;despedida
+Adiós, cuídate mucho;despedida
+Que tengas un buen día, nos vemos luego;despedida
+Nos vemos pronto, que te vaya bien;despedida
+Adiós, que tengas suerte;despedida
+Que tengas un buen día, hasta la próxima vez;despedida
+Nos vemos, que estés bien;despedida
+Adiós, hasta luego;despedida
+Que tengas un buen día, nos vemos más tarde;despedida
+Nos vemos mañana, que tengas éxito;despedida
+Adiós, que te vaya bien en todo;despedida
+Hasta la próxima reunión, nos vemos;despedida
+Adiós, que tengas un buen día, que te vaya bien;despedida
+Que tengas suerte, nos vemos más tarde;despedida
+¿Quiénes conforman su equipo?;equipo
+¿Cómo se llama su grupo?;equipo
+¿Quiénes integran su equipo?;equipo
+¿Cuál es el nombre de su equipo?;equipo
+¿Quiénes forman parte de su equipo?;equipo
+¿Cómo se llama su equipo de trabajo?;equipo
+¿Quiénes están en su equipo?;equipo
+¿Cuál es la composición de su equipo?;equipo
+¿Cómo se llama su equipo?;equipo
+¿Quiénes son los miembros de su equipo?;equipo
+¿Quiénes conforman su team?;equipo
+¿Cuál es el nombre de su equipo de trabajo?;equipo
+¿Quiénes hacen parte de su equipo?;equipo
+¿Cómo se llama su grupo de trabajo?;equipo
+¿Quiénes son parte de su equipo?;equipo
+¿Cuál es el nombre de su equipo de colaboradores?;equipo
+¿Quiénes integran su equipo de trabajo?;equipo
+¿Cómo se llama su grupo colaborativo?;equipo
+¿Quiénes componen su equipo de trabajo?;equipo
+¿Cuál es el nombre de su squad?;equipo
+¿Quiénes están en su equipo de trabajo?;equipo
+¿Cómo se llama su equipo colaborativo?;equipo
+¿Quiénes forman parte de su team?;equipo
+¿Cuál es el nombre de su equipo colaborador?;equipo
+¿Quiénes son los integrantes de su equipo?;equipo
+¿Quiénes conforman su grupo de trabajo?;equipo
+¿Cuál es el nombre de su grupo de colaboradores?;equipo
+¿Quiénes componen su squad?;equipo
+¿Cómo se llama su equipo de colaboración?;equipo
+¿Quiénes forman su equipo de trabajo?;equipo
+¿Cuál es el nombre de su equipo de colaboración?;equipo
+¿Quiénes están en su squad?;equipo
+¿Cómo se llama su equipo de colaboradores?;equipo
+¿Quiénes conforman su grupo de colaboración?;equipo
+¿Cuál es el nombre de su grupo de trabajo?;equipo
+¿Quiénes son los miembros de su squad?;equipo
+¿Quiénes hacen parte de su equipo de colaboración?;equipo
+¿Cómo se llama su team de trabajo?;equipo
+¿Quiénes componen su grupo de colaboradores?;equipo
+¿Cuál es el nombre de su squad de trabajo?;equipo
+¿Quiénes están en su equipo colaborativo?;equipo
+¿Cómo se llama su grupo de colaboración?;equipo
+¿Quiénes forman parte de su equipo de colaboración?;equipo
+¿Cuál es el nombre de su squad colaborativo?;equipo
+¿Quiénes integran su team de trabajo?;equipo
+¿Cómo se llama su equipo de colaboración?;equipo
+¿Quiénes hacen parte de su squad de trabajo?;equipo
+¿Cuál es el nombre de su team de colaboración?;equipo
+¿Quiénes componen su equipo colaborativo?;equipo
+¿Cómo se llama su grupo de colaboradores?;equipo
